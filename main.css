@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, serif;
+}
+
+header {
+    text-align: center;
+    margin: 10px;
+    
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 1px dotted black;
+}
+
+.shop {
+    display: flex;
+    flex-basis: 25%;
+    border: 1px dotted black;
+}
